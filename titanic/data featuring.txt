@@ -1,0 +1,5 @@
+가공해야 할 feature
+Age, SibSp, Parch, Fare, Cabin
+
+Age - NaN 값을 평균으로 치환
+Cabin - NaN 값의 개수를 나머지로 나눠서 채워넣음
