@@ -1,6 +1,6 @@
 <주요 피쳐>
 
-GrLivArea
+GrLivArea - 주거면적
 
 TotalBsmtSF
 
