@@ -1,39 +1,37 @@
 <주요 피쳐>
 
-GrLivArea - 주거면적
+GrLivArea
 
 TotalBsmtSF
 
-OverallQual
+LotArea
 
 BsmtFinSF1
 
 1stFlrSF
 
-LotArea
-
 GarageArea
 
 OpenPorchSF
 
-BsmtUnfSF
-
-YearRemodAdd
-
-OverallCond
-
-GarageYrBit
-
-LotFrontage
-
 YearBuilt
 
-WoodDeckSF
+BsmtUnfSF
+
+MasVnrArea
 
 Neighborhood
 
+OverallQual
+
 2ndFlrSF
 
-MoSold
+LotFrontage
 
-YrSold
+GarageYrBlt
+
+OverallCond
+
+YearRemodAdd
+
+WoodDeckSF
