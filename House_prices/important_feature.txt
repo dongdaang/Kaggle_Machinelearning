@@ -35,3 +35,13 @@ OverallCond
 YearRemodAdd
 
 WoodDeckSF
+
+MasVnrType
+
+ExterQual
+
+BsmtQual
+
+CentralAir
+
+KitchenQual

@@ -1,0 +1,21 @@
+면적은 면적끼리, 년도는 년도끼리, 퀄리티는 퀄리티끼리
+
+LotArea - GrLivArea -> 대지면적, 지상주거면적
+
+GrLivArea - TotalBsmtSF -> 지상주거면적, 지하실 면적
+
+1stFlrSF - 2ndFlrSF -> 1층 면적, 2층 면적
+
+YearBuilt - YearRemodAdd -> 건축년도, 리모델링 년도
+
+BsmtFinSF1 - BsmtFinSF2 -> 지하실 마감 면적
+
+OpenPorchSF - EnclosedPorch - 3SsnPorch - ScreenPorch -> porch 면적
+
+ExterQual - BsmtQual - KitchenQual - GarageQual -> 퀄리티
+
+ExterCond - BsmtCond - GarageCond -> 상태
+
+BedroomAbvGr - KitchenAbvGr - TotRmsAbvGrd - 지상 방 개수
+
+BsmtUnfSF - TotalBsmtSF -> 지하실 마감 비마감 비율
